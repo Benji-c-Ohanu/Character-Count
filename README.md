@@ -2,6 +2,9 @@
 This file contains a static webpage that displays character count entered in a textarea which deceases as every character is inputed.
 Character count turns red once character count exceeds 25 characters.
 
+![Screenshot 2021-10-24 at 20-41-52 Character Count](https://user-images.githubusercontent.com/59982887/138613079-0a638e04-6644-4c81-817f-0b3f20a8af8f.png)
+![Screenshot 2021-10-24 at 20-39-43 Character Count](https://user-images.githubusercontent.com/59982887/138613085-c564e763-0df0-452f-bb9a-54f14bd9511d.png)
+
 TECHNOLOGIES 
 HTML
 JAVASCRIPT
